@@ -71,7 +71,7 @@
                         </VBox>
                     </Page>
                 </detailPages>
-            
+
                 <masterPages>
                     <Page id="idMaster" title="Order Master">
                         <List id="idOrderList" items="{/Orders}" itemPress="onListPress">
